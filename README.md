@@ -80,12 +80,16 @@ nor (y6,a,b);
 xnor ( y7,a,b);
 endmodule
  
-**Logic symbol**
-![ex 1 gate](https://github.com/23002776/study-of-basic-gates/assets/145742657/1088e3dc-debf-43ca-a282-50492f71c09f)
+**Logicsymbol**
+
+![ex 1 gate](https://github.com/23002776/study-of-basic-gates/assets/145742657/ccbf4d3e-ae79-44a6-ac28-4cd7c7e69720)
+
 **Truthtable**
-![ex 1(2) gate](https://github.com/23002776/study-of-basic-gates/assets/145742657/e29c63cb-9799-4088-9cc2-f886b33cfebe)
+![ex 1(2) gate](https://github.com/23002776/study-of-basic-gates/assets/145742657/60fb42f7-4ef1-4659-81d6-11599963c952)
+
 **RTL realization Output:** 
-![ex 1(1) gate](https://github.com/23002776/study-of-basic-gates/assets/145742657/95aa7888-5f5e-454d-9051-a4bfcbd250a1)
+
+![ex 1(1) gate](https://github.com/23002776/study-of-basic-gates/assets/145742657/c6c22124-0f27-48f8-a71a-d84e21e4510e)
 
 **RTL**
 

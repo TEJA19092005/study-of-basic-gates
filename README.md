@@ -68,6 +68,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ```
  Developed by:Abinaya A
  RegisterNumber:212223040003
+
+ ```
 module logic gates ( a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7;
@@ -79,7 +81,7 @@ nand (y5,a,b);
 nor (y6,a,b);
 xnor ( y7,a,b);
 endmodule
- 
+ ```
 **Logicsymbol**
 
 ![ex 1 gate](https://github.com/23002776/study-of-basic-gates/assets/145742657/ccbf4d3e-ae79-44a6-ac28-4cd7c7e69720)

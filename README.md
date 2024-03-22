@@ -90,8 +90,7 @@ endmodule
 ![ex 1(2) gate](https://github.com/23002776/study-of-basic-gates/assets/145742657/60fb42f7-4ef1-4659-81d6-11599963c952)
 
 **RTL realization Output:** 
-
-![ex 1(1) gate](https://github.com/23002776/study-of-basic-gates/assets/145742657/c6c22124-0f27-48f8-a71a-d84e21e4510e)
+![312525723-f207de9e-70e8-480c-805b-7bba6eba26d7](https://github.com/TEJA19092005/study-of-basic-gates/assets/164043042/db93773a-dec7-407a-8cef-e99a53f66e3d)
 
 **RTL**
 
